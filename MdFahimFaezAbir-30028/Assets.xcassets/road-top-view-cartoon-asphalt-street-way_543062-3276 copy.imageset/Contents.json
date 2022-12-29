@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "road-top-view-cartoon-asphalt-street-way_543062-3276 copy.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
